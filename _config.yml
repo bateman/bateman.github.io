@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Fabio Calefato"
-  pronouns         : # example: "he/hisr"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # example: "he/his"  
+  bio              : "Associate Professor"
   location         : "Bari, Italy"
   employer         : "University of Bari, CS Dept."
   uri              : # URL
@@ -33,13 +33,13 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=n_XWRkoAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2654-1588"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=8303001500"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -61,13 +61,13 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : # URL
+  medium           : "https://medium.com/@fcalefato"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "@fcalefato"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
