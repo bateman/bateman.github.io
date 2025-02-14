@@ -65,6 +65,7 @@ My research primarily focuses on the intersection of Software Engineering and AI
 - Emotion and Sentiment Analysis in Technical Communication
 - Mining Software Repositories
 - AI Safety and Regulatory Compliance in Healthcare Systems
+- Machine Learning Operations (MLOps)
 
 ## Academic Service
 
