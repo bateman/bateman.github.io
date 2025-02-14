@@ -42,7 +42,7 @@ Department of Computer Science, University of Bari, Italy
 
 **CEO & Co-founder** (2021-present)  
 [PeoplewareAI](https://www.peopleware.ai/) s.r.l., Bari, Italy  
-Academic spin-off company focused on AI applications and software engineering
+*Academic spin-off company focused on AI applications and software engineering*
 
 **Tenure-track Assistant Professor** (2019-2022)  
 Department of Computer Science, University of Bari, Italy
