@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fabio Calefato, Ph.D."
+title: "Prof. Fabio Calefato, Ph.D."
 author_profile: true
 redirect_from: 
   - /about/
@@ -70,9 +70,9 @@ My research primarily focuses on the intersection of Software Engineering and AI
 ## Academic Service
 
 **Editorial Roles**
-- Associate Editor: Journal of Systems and Software (JSS)
-- Associate Editor: Automated Software Engineering (ASE)
+- Associate Editor: [Journal of Systems and Software (JSS)](https://www.sciencedirect.com/journal/journal-of-systems-and-software/about/editorial-board)
+- Associate Editor:[Automated Software Engineering (ASE)](https://link.springer.com/journal/10515/editorial-board)
 
 **Recent Events Organization**
-- Program Co-Chair: Int'l Conference on Software Maintenance and Evolution (ICSME'24)
-- Program Co-Chair: Int'l Conference on Cooperative and Human Aspects of Software Engineering (CHASE'23)
+- Program Co-Chair: [Int'l Conference on Software Maintenance and Evolution (ICSME'24)](https://conf.researchr.org/committee/icsme-2024/icsme-2024-organizing-committee)
+- Program Co-Chair: [Int'l Conference on Cooperative and Human Aspects of Software Engineering (CHASE'23)](https://conf.researchr.org/committee/chase-2023/chase-2023-organizing-committee)
