@@ -9,7 +9,7 @@ redirect_from:
 
 Associate Professor  
 Department of Computer Science  
-University of Bari "A. Moro"  
+University of Bari "Aldo Moro"  
 Bari, Italy
 
 ## Contact Information
