@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Fabio Calefato, Ph.D."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Fabio Calefato, Ph.D.
 
 Associate Professor  
 Department of Computer Science  
