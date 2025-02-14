@@ -41,7 +41,7 @@ Department of Computer Science, University of Bari, Italy
 *National habilitation as Full Professor obtained in December 2023*
 
 **CEO & Co-founder** (2021-present)  
-PeoplewareAI s.r.l., Bari, Italy  
+[PeoplewareAI](https://www.peopleware.ai/) s.r.l., Bari, Italy  
 Academic spin-off company focused on AI applications and software engineering
 
 **Tenure-track Assistant Professor** (2019-2022)  
