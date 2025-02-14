@@ -17,7 +17,7 @@ Bari, Italy
 **Phone:** +39 080 571 2213  
 **Office:** Via E. Orabona, 4, 70125 Bari, Italy  
 **Website:** [collab.di.uniba.it/fabio](https://collab.di.uniba.it/fabio)  
-**Google Scholar:** [Profile](https://scholar.google.com/citations?user=SCHOLAR_ID)  
+**Google Scholar:** [Profile](https://scholar.google.com/citations?hl=it&user=n_XWRkoAAAAJ&view_op=list_works&sortby=pubdate)  
 **ORCID:** [0000-0003-2654-1588](https://orcid.org/0000-0003-2654-1588)
 
 ## Education
