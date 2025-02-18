@@ -1,0 +1,8 @@
+[project]
+name = "bateman-github-io"
+version = "0.1.0"
+description = "Academic website for Fabio Calefato"
+requires-python = ">=3.13"
+dependencies = [
+    "pybtex>=0.24.0",
+]
