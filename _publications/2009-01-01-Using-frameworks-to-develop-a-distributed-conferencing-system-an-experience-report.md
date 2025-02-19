@@ -6,6 +6,6 @@ permalink: /publication/2009-01-01-Using-frameworks-to-develop-a-distributed-con
 date: 2009-01-01
 venue: 'Softw. Pract. Exp.'
 paperurl: 'https://doi.org/10.1002/spe.937'
-citation: ' Fabio Calefato,  Filippo Lanubile, &quot;Using frameworks to develop a distributed conferencing system: an experience report.&quot; <i>Softw. Pract. Exp.</i>, 2009.'
-doi: https://doi.org/10.1002/spe.937
+citation: ' Fabio Calefato,  Filippo Lanubile, &quot;Using frameworks to develop a distributed conferencing system: an experience report.&quot; <i>Softw. Pract. Exp.</i>, 2009. DOI: <a href="https://doi.org/10.1002/spe.937">10.1002/spe.937</a>.'
+doi: 10.1002/spe.937'
 ---
